@@ -4,8 +4,8 @@
 
 <p align="center">
 
-<a href="https://github.com/gilbertograchet/course_html5css3.github.io/blob/main/LICENSE" target="_blank">
-<img alt="ShieldMIT" src="https://img.shields.io/github/license/gilbertograchet/course_html5css3.github.io">
+<a href="https://github.com/gilbertograchet/curriculohtml/blob/main/LICENSE" target="_blank">
+<img alt="ShieldMIT" src="https://img.shields.io/github/license/gilbertograchet/curriculohtml">
 </a>
   
 </p>
